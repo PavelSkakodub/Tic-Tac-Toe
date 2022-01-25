@@ -1,0 +1,11 @@
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\bin\Debug\CrossAndZero.exe.config
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\bin\Debug\CrossAndZero.exe
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\bin\Debug\CrossAndZero.pdb
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.csprojAssemblyReference.cache
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.Form1.resources
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.Properties.Resources.resources
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.csproj.GenerateResource.cache
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.csproj.CoreCompileInputs.cache
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.exe
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.pdb
+C:\Users\Костя  и  Паша\source\repos\CrossAndZero\obj\Debug\CrossAndZero.MenuForm.resources
